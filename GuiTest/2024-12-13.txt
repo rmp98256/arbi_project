@@ -1,9 +1,0 @@
-Date: 2024-12-13
-
-Former Details:
-- Mayur Patel , 70 bags, 40 kg
-- Ashish Patel , 40  bags, 40 kg
-- null, null bags, 40 kg
-- null, null bags, 40 kg
-
-Advance Amount: 27000
